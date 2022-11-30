@@ -1,5 +1,7 @@
 ### Assignment 4 - Page Building in Nuxt
 
+### Author: Lucas Muenchrath
+
 ### Attributions:
 
 - https://www.youtube.com/watch?v=dvanqBUoxhc&list=PL4cUxeGkcC9haQlqdCQyYmL_27TesCGPC&index=7
